@@ -1,12 +1,12 @@
 # 📚 Book Recommendation System using Logistic Regression
 
-## 📌 Project Overview
+##  Project Overview
 
 This is a **Book Recommendation System** built using **Logistic Regression**, which recommends books to users based on past preferences and input features. It demonstrates how classification techniques can be applied to predict user interests and suggest relevant books.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Pandas**
@@ -17,7 +17,7 @@ This is a **Book Recommendation System** built using **Logistic Regression**, wh
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - To implement a **machine learning-based recommendation system**.
 - To train a **logistic regression model** on book-related user data.
@@ -25,7 +25,7 @@ This is a **Book Recommendation System** built using **Logistic Regression**, wh
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The dataset includes information such as:
 
@@ -39,7 +39,7 @@ The dataset includes information such as:
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 
 1. **Data Preprocessing**  
    - Handling missing values  
@@ -60,7 +60,7 @@ The dataset includes information such as:
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ```bash
 Enter Book Genre: Fantasy  
